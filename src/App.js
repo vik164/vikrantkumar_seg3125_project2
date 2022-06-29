@@ -37,9 +37,7 @@ function App() {
               <ReservePage></ReservePage>
             </Route>
             
-            <Route path="/">
-              <HomePage></HomePage>
-            </Route>
+            
 
           </Switch>
         </div>
