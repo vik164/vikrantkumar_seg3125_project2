@@ -8,7 +8,8 @@ import ContactPage from './Contact';
 import ReservePage from './Reserve';
 import Footer from './Footer';
 
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+//import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App() {
   return (
